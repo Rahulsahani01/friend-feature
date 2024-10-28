@@ -1,4 +1,5 @@
 var isstatus = document.querySelector("h5");
+// hii
 var add_friend = document.querySelector("#add_friend");
 var remove = document.querySelector("#remove_friend");
 
